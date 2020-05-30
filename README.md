@@ -58,6 +58,12 @@
 ![capture7](Capture9.PNG)
 
 
-## Conclusion
+## **Conclusion**
 
 With this project and the course, i got a step by step in order to testing and training datasets.  This project has good prediction rate : **85%** and train 2560 images. The results are great to shows the powers of convolutional neural networks. 
+
+In order to improve the performance, i need to research more about the Model in order to apply the good one in the future project to improve the calculation times and minimization of the storage. 
+
+
+
+
